@@ -4,7 +4,7 @@ let list2 = [false, false, false];
 function countSheeps(list) {
   let sheeps = 0;
   for (let animals of list) {
-    if (animal === true) {
+    if (animals === true) {
       sheeps++;
     }
   }
